@@ -7,4 +7,5 @@ hamiltoniana.
 Se tratará de irle agregando problemas cada vez más e irle arreglando algunos
 problemas en el código.
 
+NOTA: es necesario de tener instalado Reactjs si se quiere contribuir en el projecto 
 
