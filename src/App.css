@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin: 1rem auto;
+}
+h2{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin: auto;
+}
+h3{
+  text-align: center;
+  justify-content: center;
+  align-items: justify;
+  width: 50%;
+  margin: 1rem auto;
+}
+p{
+  text-align: center;
+  text-align: justify;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+  margin: auto;
+}
+ul{
+  list-style: none;
+  text-align: justify;
+  text-align: center;
+}
+.App-header { 
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
